@@ -1,6 +1,7 @@
 public class Main {
+    //Добавлен в pull request
     public static void main(String[] args) {
-        //String[][] ar = new String[4][4];
+
         String[][] ar = {
                 {"1", "2","3", "4"},
                 {"5", "6","7", "8"},

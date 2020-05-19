@@ -1,4 +1,6 @@
+//Добавлен в pull request
 public class MyArrayDataException extends Throwable {
+
     int x = -1;
     int y = -1;
     String value ="";
